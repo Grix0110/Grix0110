@@ -2,8 +2,7 @@
   Hi, I'm Maximilian
 </h1>
 
-- 👋 I'm looking for my first Job in Webdevelopment
-- 👀 I’m interested in Frontend projects
+- 👀 I'm looking for my first Job in Webdevelopment
 - 🌱 I learned Fullstack Development at SPICED Academy 
 - 💞️ I’m looking to enrich my knowldge in Javascript and REACT.js 
 - 📫 How to reach me, maximilian.griep@gmail.com

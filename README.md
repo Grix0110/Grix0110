@@ -13,7 +13,7 @@
 
 <h2 align="center"> FRAMEWORKS: <h2>
 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="48" height="48">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=">
 
 
 
